@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">I'm a computer science student at University of Warmia and Mazury in Olsztyn passionate about machine learning.</h3>
 
-- 🌱 Currently diving deep into **Generative Adversarial Networks (GANs) and other Machine Learning**
+- 🌱 Currently diving deep into **Generative Adversarial Networks (GANs)** and other **Machine Learning** techniques to build interesting projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
