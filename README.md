@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
-<h3 align="center">I'm a computer science student at University of Warmia and Mazury in Olsztyn passionate about machine learning.</h3>
+<h3 align="center">I'm a computer science student at University of Warmia and Mazury in Olsztyn passionate about machine learning. Member of  [Czarna Magia](https://github.com/knsiczarnamagia) AI science club</h3>
 
 - 🌱 Currently diving deep into **Generative Adversarial Networks (GANs)** and other **Machine Learning** techniques to build interesting projects
 
